@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SharpyGamerYT</h1>
-<h3 align="center">Passionate Web Developer & Experienced In CyberSecurity & Ethical Hacking!</h3>
+<h3 align="center">Experienced In CyberSecurity, Ethical Hacking & Frontend Web Developer! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharpygamerytt&label=Profile%20views&color=0e75b6&style=flat" alt="sharpygamerytt" /> </p>
 
 - 🔭 I’m currently working on [Kvm Hosting](https://host.allaycloud.net/)
 
-- 🌱 I’m currently learning **Network Magament**
+- 🌱 I’m currently learning **Network Magament & Sim Cloning!**
 
 - 👨‍💻 All of my projects are available at [https://www.allaycloud.net/](https://www.allaycloud.net/)
 

@@ -7,11 +7,12 @@
 
 - 🌱 I’m currently learning **Network Magament & Sim Cloning!**
 
-- 👨‍💻 All of my projects are available at [https://www.allaycloud.net/](https://www.allaycloud.net/)
+- 👨‍💻 All of my projects are available at [https://sharpydev.xyz/](https://sharpydev.xyz/)
 
 - 📫 How to reach me **mbilalm2050@gmail.com**
 
-- 📄 Know about my experiences [https://www.allaycloud.net/](https://www.allaycloud.net/)
+- 📄 Know about my experiences https://sharpydev.xyz/(
+- https://sharpydev.xyz/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

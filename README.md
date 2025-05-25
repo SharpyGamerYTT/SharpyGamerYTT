@@ -1,28 +1,174 @@
-<h1 align="center">Hi 👋, I'm Sharpy</h1>
-<h3 align="center">Experienced Cyber Security Expert, Ethical Hacking, Network Management, Web App Developer</h3>
+<div align="center">
+  <img src="https://media2.giphy.com/media/hUIn2yoj36JkzmEdE2/giphy.gif" width="140" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(255, 255, 255, 0.3);"/>
+  <h1 style="font-size: 2.5rem; font-weight: bold; color: #f0f0f0; text-shadow: 2px 2px 10px rgba(255, 255, 255, 0.2); margin-bottom: 10px;">
+    👋 Welcome To My GitHub! 🚀
+  </h1>
+  <p style="font-size: 1.3rem; font-weight: 500; color: #ccc; margin-bottom: 20px;">
+    💻 Full Stack Developer | 🎮 Game Developer | 🚀 Tech Innovator
+  </p>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <a href="https://github.com/SharpyGamerYTT">
+      <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://discord.com/users/sharpygamerytt">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="mailto: mbilalm2050@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=SharpyGamerYTT&color=blueviolet&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-green?style=flat-square" alt="Status"/>
+  </div>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharpygamerytt&label=Profile%20views&color=0e75b6&style=flat" alt="sharpygamerytt" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharpygamerytt" alt="sharpygamerytt" /></a> </p>
+## 🌟 About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🚀 Development Focus</h3>
+    <p style="color: #ccc;">Experienced in creating essy to easy, fullstack website with amazing design and technology.</p>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Backend-Python-blue?style=flat-square" alt="Backend"/>
+      <img src="https://img.shields.io/badge/API-RESTful-green?style=flat-square" alt="API"/>
+    </div>
+  </div>
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🎮 Gaming Passion</h3>
+    <p style="color: #ccc;">Passionate about creating engaging Minecraft Game servers and interactive experiences </p>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Game%20Dev-Python-orange?style=flat-square" alt="Game Dev"/>
+      <img src="https://img.shields.io/badge/Web%20Games-Flask-yellow?style=flat-square" alt="Web Games"/>
+    </div>
+  </div>
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">💡 Innovation</h3>
+    <p style="color: #ccc;">Constantly exploring new technologies and frameworks to stay at the forefront of development.</p>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Cloud-AWS-blue?style=flat-square" alt="AWS"/>
+      <img src="https://img.shields.io/badge/DevOps-Docker-green?style=flat-square" alt="Docker"/>
+    </div>
+  </div>
+</div>
 
-- 👨‍💻 I’m currently working on [CrazeCloudS - Best Minecraft Community](https://discord.gg/sharpygameryt-s-empire-crazeclouds-1308696494479773716)
+---
 
-- 👨‍💻 All of my projects are available at [https://sharpydev.xyz](https://sharpydev.xyz)
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="50" height="50"/>&nbsp;
+</div>
 
-- 📫 How to reach me **mbilalm2050@gmail.com**
+---
 
-- 📄 Know about my experiences [https://sharpydev.xyz](https://sharpydev.xyz)
+## 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/sharpygameryt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sharpygameryt" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SharpyGamerYTT&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SharpyGamerYTT&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharpygamerytt&show_icons=true&locale=en&layout=compact" alt="sharpygamerytt" /></p>
+## 🎯 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharpygamerytt&show_icons=true&locale=en" alt="sharpygamerytt" /></p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+    <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🌟 Modern Developer Portfolio</h3>
+    <p style="color: #ccc;">A stunning portfolio website built with Flask, featuring modern design, animations, and interactive elements.</p>
+    <a href="https://github.com/JustLukaBraza/Modern-Developer-Portfolio" style="color: #00bfff;">🔗 View on GitHub</a>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
+      <img src="https://img.shields.io/badge/Features-Modern%20UI-blue?style=flat-square" alt="Features"/>
+      <img src="https://img.shields.io/badge/Theme-Dark%20Mode-purple?style=flat-square" alt="Theme"/>
+    </div>
+  </div>
+
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🎮 RohamboMaster - Rock Paper Scissors With Flask</h3>
+    <p style="color: #ccc;">A classic Rock Paper Scissors game built with Flask featuring modern UI and game statistics.</p>
+    <a href="https://github.com/JustLukaBraza/RohamboGameWithFlask-" style="color: #00bfff;">🔗 View on GitHub</a>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
+      <img src="https://img.shields.io/github/stars/JustLukaBraza/RohamboGameWithFlask-?style=flat-square" alt="Stars"/>
+    </div>
+  </div>
+  
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🐍 Neon Snake Game - Modern Web Edition</h3>
+    <p style="color: #ccc;">A modern and stylish Snake game built with Flask.</p>
+    <a href="https://github.com/JustLukaBraza/SnakeGameWithFlask" style="color: #00bfff;">🔗 View on GitHub</a>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
+      <img src="https://img.shields.io/github/stars/JustLukaBraza/SnakeGameWithFlask?style=flat-square" alt="Stars"/>
+    </div>
+  </div>
+  
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🛒 RENODE STORE WITH FLASK</h3>
+    <p style="color: #ccc;">A Flask-powered e-commerce store for digital products.</p>
+    <a href="https://github.com/JustLukaBraza/geolab-final-project-" style="color: #00bfff;">🔗 View on GitHub</a>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
+      <img src="https://img.shields.io/github/stars/JustLukaBraza/geolab-final-project-?style=flat-square" alt="Stars"/>
+    </div>
+  </div>
+
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🏦 TBC Bank Python Certification</h3>
+    <p style="color: #ccc;">Successfully completed Python programming certification from TBC Bank, demonstrating expertise in modern Python development practices.</p>
+    <div style="margin-top: 15px;">
+      <a href="https://drive.google.com/file/d/1IXg3eEEH9PbZ2p3aSs5_1g4s3UChubxX/view?usp=sharing" style="display: inline-block; background: #4CAF50; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; transition: background 0.3s ease;">
+        🎥 Watch Certificate Video
+      </a>
+    </div>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Issuer-TBC%20Bank-blue?style=flat-square" alt="Issuer"/>
+      <img src="https://img.shields.io/badge/Technology-Python-yellow?style=flat-square" alt="Technology"/>
+    </div>
+  </div>
+</div>
+
+---
+
+<div align="center" style="margin-top: 30px; background: rgba(255, 255, 255, 0.05); padding: 30px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h3 style="color: #f0f0f0; font-size: 1.5rem; margin-bottom: 15px;">🚀 Let's Build Something Amazing Together!</h3>
+  <p style="color: #ccc; font-size: 1.1rem; margin-bottom: 20px;">
+    Always open to exciting opportunities and collaborations!
+  </p>
+  <div style="display: flex; justify-content: center; gap: 15px;">
+    <a href="https://github.com/sharpygamerytt">
+      <img src="https://img.shields.io/badge/Connect-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://discord.com/users/850710751462031360">
+      <img src="https://img.shields.io/badge/Chat-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="mailto: mbilalm2050@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️-By%20SharpyDev-red?style=flat-square" alt="Made with Love"/>
+</div>

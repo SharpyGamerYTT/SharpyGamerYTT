@@ -127,30 +127,7 @@
   </div>
 
 
-</div>
-
----
-
-## 🎓 Certifications
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🏦 TBC Bank Python Certification</h3>
-    <p style="color: #ccc;">Successfully completed Python programming certification from TBC Bank, demonstrating expertise in modern Python development practices.</p>
-    <div style="margin-top: 15px;">
-      <a href="https://drive.google.com/file/d/1IXg3eEEH9PbZ2p3aSs5_1g4s3UChubxX/view?usp=sharing" style="display: inline-block; background: #4CAF50; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; transition: background 0.3s ease;">
-        🎥 Watch Certificate Video
-      </a>
-    </div>
-    <div style="margin-top: 15px;">
-      <img src="https://img.shields.io/badge/Issuer-TBC%20Bank-blue?style=flat-square" alt="Issuer"/>
-      <img src="https://img.shields.io/badge/Technology-Python-yellow?style=flat-square" alt="Technology"/>
-    </div>
-  </div>
-</div>
-
----
-
+</div> 
 <div align="center" style="margin-top: 30px; background: rgba(255, 255, 255, 0.05); padding: 30px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <h3 style="color: #f0f0f0; font-size: 1.5rem; margin-bottom: 15px;">🚀 Let's Build Something Amazing Together!</h3>
   <p style="color: #ccc; font-size: 1.1rem; margin-bottom: 20px;">

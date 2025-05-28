@@ -96,22 +96,20 @@
   </div>
 
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🎮 RohamboMaster - Rock Paper Scissors With Flask</h3>
-    <p style="color: #ccc;">A classic Rock Paper Scissors game built with Flask featuring modern UI and game statistics.</p>
-    <a href="https://github.com/JustLukaBraza/RohamboGameWithFlask-" style="color: #00bfff;">🔗 View on GitHub</a>
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🎮 OneMinuteSkills</h3>
+    <p style="color: #ccc;">Learn a new skill every Minute. </p>
+    <a href="https://oneminuteskills.sharpydev.xyz" style="color: #00bfff;">🔗 Checkout Website </a>
     <div style="margin-top: 15px;">
-      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
-      <img src="https://img.shields.io/github/stars/JustLukaBraza/RohamboGameWithFlask-?style=flat-square" alt="Stars"/>
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/ 
     </div>
   </div>
   
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🐍 Neon Snake Game - Modern Web Edition</h3>
-    <p style="color: #ccc;">A modern and stylish Snake game built with Flask.</p>
-    <a href="https://github.com/JustLukaBraza/SnakeGameWithFlask" style="color: #00bfff;">🔗 View on GitHub</a>
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🐍 ChatGPT Clone</h3>
+    <p style="color: #ccc;">ChatGPT But Better Design.</p>
+    <a href="https://github.com/JustLukaBraza/SnakeGameWithFlask" style="color: #00bfff;">🔗 Checkout Website</a>
     <div style="margin-top: 15px;">
-      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
-      <img src="https://img.shields.io/github/stars/JustLukaBraza/SnakeGameWithFlask?style=flat-square" alt="Stars"/>
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/> 
     </div>
   </div>
   

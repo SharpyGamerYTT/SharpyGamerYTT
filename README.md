@@ -116,7 +116,7 @@
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h3 style="color: #f0f0f0; margin-bottom: 10px;">🛒 McDevelopment Studio</h3>
     <p style="color: #ccc;">Minecraft Server Configs Specialist, Cheap + High Quality!   </p>
-    <a href="http://mcdevelopment.pro/" style="color: #00bfff;">🔗 View Website</a>
+    <a href="https://www.mcdevelopment.pro/" style="color: #00bfff;">🔗 View Website</a>
     <div style="margin-top: 15px;">
       <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/> 
     </div>

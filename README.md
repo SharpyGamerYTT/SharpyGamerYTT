@@ -105,21 +105,20 @@
   </div>
   
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🐍 ChatGPT Clone</h3>
-    <p style="color: #ccc;">ChatGPT But Better Design.</p>
-    <a href="https://github.com/JustLukaBraza/SnakeGameWithFlask" style="color: #00bfff;">🔗 Checkout Website</a>
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🐍 Mc Server Status </h3>
+    <p style="color: #ccc;">Advanced Minecraft Server Staus Viewer </p>
+    <a href="https://mcstatus.sharpydev.xyz" style="color: #00bfff;">🔗 Checkout Website</a>
     <div style="margin-top: 15px;">
       <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/> 
     </div>
   </div>
   
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🛒 RENODE STORE WITH FLASK</h3>
-    <p style="color: #ccc;">A Flask-powered e-commerce store for digital products.</p>
-    <a href="https://github.com/JustLukaBraza/geolab-final-project-" style="color: #00bfff;">🔗 View on GitHub</a>
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🛒 McDevelopment Studio</h3>
+    <p style="color: #ccc;">Minecraft Server Configs Specialist, Cheap + High Quality!   </p>
+    <a href="[https://github.com/JustLukaBraza/geolab-final-project-](http://mcdevelopment.pro/)" style="color: #00bfff;">🔗 View Website</a>
     <div style="margin-top: 15px;">
-      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
-      <img src="https://img.shields.io/github/stars/JustLukaBraza/geolab-final-project-?style=flat-square" alt="Stars"/>
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/> 
     </div>
   </div>
 

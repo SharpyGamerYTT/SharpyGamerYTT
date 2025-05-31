@@ -88,7 +88,7 @@
     <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h3 style="color: #f0f0f0; margin-bottom: 10px;">🌟 YouTube Thumbnail Downloader</h3>
     <p style="color: #ccc;">A simple tool to download high-quality YouTube video thumbnails (up to 4K) instantly by pasting the video link. quick and easy downloads.</p>
-    <a href=" https://github.com/SharpyGamerYTT/yt-thumbnail" style="color: #00bfff;">🔗 View on GitHub</a>
+    <a href="https://github.com/SharpyGamerYTT/yt-thumbnail" style="color: #00bfff;">🔗 View on GitHub</a>
     <div style="margin-top: 15px;">
       <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
       <img src="https://img.shields.io/badge/Features-Modern%20UI-blue?style=flat-square" alt="Featur
@@ -107,7 +107,7 @@
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h3 style="color: #f0f0f0; margin-bottom: 10px;">🐍 Mc Server Status </h3>
     <p style="color: #ccc;">Advanced Minecraft Server Staus Viewer </p>
-    <a href=" https://github.com/SharpyGamerYTT/McStatus/" style="color: #00bfff;">🔗 Checkout Repo</a>
+    <a href="https://github.com/SharpyGamerYTT/McStatus/" style="color: #00bfff;">🔗 Checkout Repo</a>
     <div style="margin-top: 15px;">
       <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/> 
     </div>

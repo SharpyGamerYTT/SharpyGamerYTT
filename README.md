@@ -107,7 +107,7 @@
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h3 style="color: #f0f0f0; margin-bottom: 10px;">🐍 Mc Server Status </h3>
     <p style="color: #ccc;">Advanced Minecraft Server Staus Viewer </p>
-    <a href="https://mcstatus.sharpydev.xyz" style="color: #00bfff;">🔗 Checkout Website</a>
+    <a href=" https://github.com/SharpyGamerYTT/McStatus/" style="color: #00bfff;">🔗 Checkout Repo</a>
     <div style="margin-top: 15px;">
       <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/> 
     </div>
